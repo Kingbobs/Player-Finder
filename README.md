@@ -5,7 +5,7 @@ The Player Finder Plugin is a custom plugin for PocketMine that allows you to fi
 ## Features
 
 - Find online players
-- Teleport to a specific player
+- Teleport to a specific players
 
 ## Installation
 
