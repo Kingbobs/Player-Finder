@@ -1,0 +1,6 @@
+name: PlayerFinderPlugin
+version: 1.0.0
+api: [4.0.0]
+main: Kingbobs\PlayerFinder
+author: Kingbobs
+description: A plugin to find players and teleport to them.
